@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🎨 Prompt Studio — Single File
 
 > เครื่องมือสร้างและจัดการ Prompt สำหรับ AI ในไฟล์ HTML เดียว
@@ -48,7 +45,7 @@
 ```
 
 Prompt-studio/
-└── index.html      ← ไฟล์เดียวจบ (HTML + CSS + JS)
+├── index.html      ← ไฟล์เดียวจบ (HTML + CSS + JS)
 └── README.md       ← เอกสารที่คุณกำลังอ่านอยู่
 
 ```
@@ -71,7 +68,6 @@ Prompt-studio/
 pkg install git
 git clone https://github.com/Aa-ok99/Prompt-studio.git
 cd Prompt-studio
-# เปิดไฟล์ผ่านเบราว์เซอร์มือถือ
 termux-open index.html
 ```
 
@@ -134,7 +130,6 @@ Pull Request ยินดีต้อนรับเสมอ
 ```bash
 git clone https://github.com/Aa-ok99/Prompt-studio.git
 cd Prompt-studio
-# แก้ไข index.html แล้ว commit
 git add .
 git commit -m "feat: add new template"
 git push origin main
@@ -157,6 +152,3 @@ Aa-ok99 · GitHub
 <p align="center">
   <sub>สร้างด้วย ❤️ และไฟล์ HTML เดียว</sub>
 </p>
-```
-
----
